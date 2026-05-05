@@ -41,10 +41,7 @@ Checks each input number and classifies it as **Outlier** or **Normal** using th
 
 ### Steps
 ```bash
-git clone https://github.com/<your-username>/StatisticsAssignment.git
-cd StatisticsAssignment
-dotnet run
-```
+
 
 ---
 
