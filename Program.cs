@@ -1,13 +1,3 @@
-// ============================================================
-// Faculty of Computers and Information
-// Probability and Statistical Distributions - Spring 2025/2026
-// Programming Assignment - First Level
-// Artificial Intelligence – Biomedical & Software Engineering B.Sc.
-// Prof. Samir Elmougy
-//
-// Student: معاذ عزت عباس (Moaz Ezzat Abbas)
-// Due: Thursday May 7, 2026
-// ============================================================
 
 using System;
 using System.Collections.Generic;
