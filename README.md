@@ -1,14 +1,5 @@
 # Probability & Statistical Distributions – Programming Assignment
 
-**Faculty of Computers and Information**  
-**Course:** Probability and Statistical Distributions  
-**Semester:** Spring 2025/2026  
-**Student:** Moaz Ezzat Abbas (معاذ عزت عباس)  
-**Instructor:** Prof. Samir Elmougy  
-**Due Date:** Thursday, May 7, 2026
-
----
-
 ## Description
 
 This project contains two C# programming tasks:
